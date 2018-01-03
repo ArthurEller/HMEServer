@@ -13,11 +13,9 @@ ____    ______       ____________   ____
  MM      MM M   YP   MM MM              MM MM       MM        `Mbd'   MM       MM     
  MM      MM M   `'   MM MM      / L    ,M9 YM    d9 MM         YMP    YM    d9 MM     
 _MM_    _MM_M_      _MM_MMMMMMMMM MYMMMM9   YMMMM9 _MM_         M      YMMMM9 _MM_    v1.0
-
 HMEServer_Hosting Application v1.0 by ArthurHMES
 Twitter: @Thuur1337     Github: https://github.com/ArthurHMES/
-
-""" + '\033 [0;0m'
+""" + '\033[0;0m'
 
 ip = "0.0.0.0"
 porta = raw_input("Porta para criar o servidor: ")
